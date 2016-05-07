@@ -2,7 +2,7 @@
 The file useragents.txt contains a list of undesirable user-agents, which you want to keep out of your website(s).  
 The file useragents.rules wraps the list into a nginx format.
 #Usage
-1) Put useragents.rules into /etc/nginx/ dir (in Ubuntu), so that it is accessible by this path: /etc/nginx/useragents.rules
+1) Put useragents.rules into /etc/nginx/ dir (in Ubuntu), so that it is accessible by this path: /etc/nginx/useragents.rules  
 2) In the main nginx config (/etc/nginx/nginx.conf), in the **http** section put this line:
 ```
 include /etc/nginx/useragents.rules;

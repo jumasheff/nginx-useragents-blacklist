@@ -1,0 +1,164 @@
+WebBandit
+webbandit
+Acunetix
+AhrefsBot
+binlar
+BlackWidow
+Bolt 0
+Bot mailto:craftbot@yahoo.com
+BOT for JCE
+casper
+checkprivacy
+ChinaClaw
+clshttp
+cmsworldmap
+comodo
+Custo
+Default Browser 0
+diavol
+DIIbot
+DISCo
+dotbot
+Download Demon
+eCatch
+EirGrabber
+EmailCollector
+EmailSiphon
+EmailWolf
+Express WebPictures
+extract
+ExtractorPro
+EyeNetIE
+feedfinder
+FHscan
+FlashGet
+flicky
+GetRight
+GetWeb!
+Go-Ahead-Got-It
+Go!Zilla
+grab
+GrabNet
+Grafula
+grapeshot
+harvest
+HMView
+ia_archiver
+Image Stripper
+Image Sucker
+InterGET
+Internet Ninja
+InternetSeer.com
+jakarta
+Java
+JetCar
+JOC Web Spider
+kmccrew
+larbin
+LeechFTP
+libwww
+Mass Downloader
+Maxthon$
+microsoft.url
+MIDown tool
+miner
+Mister PiX
+NEWT
+MSFrontPage
+Navroad
+NearSite
+Net Vampire
+NetAnts
+NetSpider
+NetZIP
+nutch
+Octopus
+Offline Explorer
+Offline Navigator
+PageGrabber
+Papa Foto
+pavuk
+pcBrowser
+PeoplePal
+planetwork
+psbot
+purebot
+pycurl
+RealDownload
+ReGet
+Rippers 0
+SeaMonkey$
+sitecheck.internetseer.com
+SiteSnagger
+skygrid
+SmartDownload
+sucker
+SuperBot
+SuperHTTP
+Surfbot
+tAkeOut
+Teleport Pro
+Toata dragostea mea pentru diavola
+turnit
+vikspider
+VoidEYE
+Web Image Collector
+Web Sucker
+WebAuto
+WebCopier
+WebFetch
+WebGo IS
+WebLeacher
+WebReaper
+WebSauger
+Website eXtractor
+Website Quester
+WebStripper
+WebWhacker
+WebZIP
+Wget
+Widow
+WWW-Mechanize
+WWWOFFLE
+Xaldon WebSpider
+Zeus
+zmeu
+CazoodleBot
+discobot
+ecxi
+GT::WWW
+heritrix
+HTTP::Lite
+HTTrack
+ia_archiver
+id-search
+id-search.org
+IDBot
+Indy Library
+IRLbot
+ISC Systems iRc Search 2.1
+LinksManager.com_bot
+linkwalker
+lwp-trivial
+MFC_Tear_Sample
+Microsoft URL Control
+Missigua Locator
+panscient.com
+PECL::HTTP
+PHPCrawl
+PleaseCrawl
+SBIder
+Snoopy
+Steeler
+URI::Fetch
+urllib
+Web Sucker
+webalta
+WebCollage
+Wells Search II
+WEP Search
+zermelo
+ZyBorg
+libwww-perl
+Go!Zilla
+TurnitinBot
